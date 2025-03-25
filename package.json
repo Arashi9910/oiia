@@ -1,0 +1,11 @@
+{
+  "name": "oiia-sound-effect",
+  "version": "1.0.0",
+  "description": "OIIA 網站",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
